@@ -1,0 +1,2 @@
+Batch Yield Variance = GMEBCHYV
+Material Usage and Substitution Variance = GMEMUSBV
